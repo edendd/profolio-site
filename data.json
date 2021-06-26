@@ -1,0 +1,37 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "Random Quote Generator",
+      "description": "This application takes the random qoute from the array and display it randomly when the user click the button",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://edendd.github.io/techdegree-project1/",
+      "github_link": "https://github.com/edendd/techdegree-project1",
+      "image_urls": ["../static/images/project1/project1_a.png",
+        "../static/images/project1/project1_b.png"]
+    },
+
+    {
+      "id": 1,
+      "project_name": "Data Pagination",
+      "description": "This application uses pagination and filter to show the number of employees per page, selecting different page makes the user to see different employees ",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://edendd.github.io/Data-pagination-filtering/",
+      "github_link": "https://github.com/edendd/Data-pagination-filtering",
+      "image_urls": ["../static/images/project2/project2_a.png",
+                     "../static/images/project2/project2_b.png"]
+    },
+
+    {
+      "id": 2,
+      "project_name": "Interactive Form",
+      "description": "Used for developers registration form to utilize client side validation ",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://edendd.github.io/interactive-form/",
+      "github_link": "https://github.com/edendd/interactive-form",
+      "image_urls": ["../static/images/project3/project3_a.png",
+        "../static/images/project3/project3_b.png"]
+    }
+
+  ]
+}
