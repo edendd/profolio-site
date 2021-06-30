@@ -31,7 +31,17 @@
       "github_link": "https://github.com/edendd/interactive-form",
       "image_urls": ["../static/images/project3/project3_a.png",
         "../static/images/project3/project3_b.png"]
-    }
+    },
 
+    {
+      "id": 3,
+      "project_name": "Weather App",
+      "description": "Tell you a weather of every country, I used weather api for this project",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://trusting-snyder-105309.netlify.app/",
+      "github_link": "https://github.com/edendd/weather-app-",
+      "image_urls": ["../static/images/project4/project4_a.png",
+        "../static/images/project4/project4_b.png"]
+    }
   ]
 }
