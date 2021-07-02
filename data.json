@@ -42,6 +42,18 @@
       "github_link": "https://github.com/edendd/weather-app-",
       "image_urls": ["../static/images/project4/project4_a.png",
         "../static/images/project4/project4_b.png"]
+    },
+    
+    {
+      "id": 4,
+      "project_name": "Phrase Game App",
+      "description": "A game built in word guessing using obiject-oriented programming principle",
+      "technologies": ["HTML", "CSS", "Object-Oriented-JavaScript"],
+      "live_link": "https://heuristic-lewin-38abce.netlify.app/",
+      "github_link": "https://github.com/edendd/OOP-game-show-app",
+      "image_urls": ["../static/images/project5/project5_a.png",
+        "../static/images/project5/project5_b.png"]
     }
+
   ]
 }
